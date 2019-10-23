@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{7FE70DA6-6405-4AC8-B1F6-CFF46604059F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "EchoClient\EchoClient.csproj", "{C06390AD-F384-42C9-AF47-9B86FD18CA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE70DA6-6405-4AC8-B1F6-CFF46604059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE70DA6-6405-4AC8-B1F6-CFF46604059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE70DA6-6405-4AC8-B1F6-CFF46604059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE70DA6-6405-4AC8-B1F6-CFF46604059F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06390AD-F384-42C9-AF47-9B86FD18CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06390AD-F384-42C9-AF47-9B86FD18CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06390AD-F384-42C9-AF47-9B86FD18CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06390AD-F384-42C9-AF47-9B86FD18CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0EDFED-3FCA-4A18-AF44-E98B392D6D4F}
+	EndGlobalSection
+EndGlobal

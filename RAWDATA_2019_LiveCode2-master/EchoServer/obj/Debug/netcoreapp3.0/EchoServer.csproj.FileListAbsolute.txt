@@ -1,0 +1,11 @@
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.exe
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.deps.json
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.runtimeconfig.json
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.runtimeconfig.dev.json
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.dll
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\bin\Debug\netcoreapp3.0\EchoServer.pdb
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\obj\Debug\netcoreapp3.0\EchoServer.csprojAssemblyReference.cache
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\obj\Debug\netcoreapp3.0\EchoServer.AssemblyInfoInputs.cache
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\obj\Debug\netcoreapp3.0\EchoServer.AssemblyInfo.cs
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\obj\Debug\netcoreapp3.0\EchoServer.dll
+C:\Users\Aurelien\Desktop\Cours\Roskilde courses\Rowdata\C#\RAWDATA_2019_LiveCode2-master\EchoServer\obj\Debug\netcoreapp3.0\EchoServer.pdb

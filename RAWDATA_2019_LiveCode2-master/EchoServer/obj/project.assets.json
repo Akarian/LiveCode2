@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Aurelien\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_LiveCode2-master\\EchoServer\\EchoServer.csproj",
+      "projectName": "EchoServer",
+      "projectPath": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_LiveCode2-master\\EchoServer\\EchoServer.csproj",
+      "packagesPath": "C:\\Users\\Aurelien\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aurelien\\Desktop\\Cours\\Roskilde courses\\Rowdata\\C#\\RAWDATA_2019_LiveCode2-master\\EchoServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aurelien\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
